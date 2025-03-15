@@ -16,7 +16,7 @@ Install python deps (for example, with virtualenv):
     pip install -r requirements.txt
     deactivate
 
-Install [LM Studio](https://lmstudio.ai/download), and download desired LLM ([Mistral Nemo](https://lmstudio.ai/model/mistral-nemo-instruct-2407) in this case). Run LM Studio once, then start the LM Studio CLI server
+Install [LM Studio](https://lmstudio.ai/download) (version LM-Studio-0.3.13-2-x64 is compatible with given python modules), and download desired LLM ([Mistral Nemo](https://lmstudio.ai/model/mistral-nemo-instruct-2407) in this case). Run LM Studio once, then start the LM Studio CLI server
 
     lms server start
     lms server status
