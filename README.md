@@ -1,6 +1,6 @@
 # BlueSky FactCheckerAI
 
-A bot that fact checks text posts when tagged. [Profile Link](https://bsky.app/profile/factcheckerai.bsky.social)
+## A bot that fact checks text posts when tagged. [Profile Link](https://bsky.app/profile/factcheckerai.bsky.social)
 
 # Deployment
 
